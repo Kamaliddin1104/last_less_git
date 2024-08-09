@@ -2,4 +2,4 @@
 
 Add text with browser
 
-add local text
+added local text
