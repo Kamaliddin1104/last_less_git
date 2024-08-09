@@ -6,4 +6,3 @@ added local text
 
 added new text in another branch - new_branch
 
-Start local conflict
